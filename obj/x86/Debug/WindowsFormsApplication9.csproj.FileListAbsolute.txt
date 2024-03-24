@@ -1,0 +1,14 @@
+C:\Users\Win10\Desktop\nesne\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\Win10\Desktop\nesne\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Win10\Desktop\nesne\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\nesne\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Win10\Desktop\nesne\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Win10\Desktop\nesne\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+C:\Users\Win10\Desktop\nesne\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+C:\Users\Win10\Desktop\nesne\CLASS'TA MAASLAR\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.exe
+C:\Users\Win10\Desktop\nesne\CLASS'TA MAASLAR\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.pdb
+C:\Users\Win10\Desktop\nesne\CLASS'TA MAASLAR\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Win10\Desktop\nesne\CLASS'TA MAASLAR\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Win10\Desktop\nesne\CLASS'TA MAASLAR\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\Win10\Desktop\nesne\CLASS'TA MAASLAR\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Win10\Desktop\nesne\CLASS'TA MAASLAR\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
